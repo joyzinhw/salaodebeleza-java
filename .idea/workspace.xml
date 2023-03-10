@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76ca7d07-fefe-47ca-86b2-ba03b807a1de" name="Changes" comment="atualizações.">
+      <change afterPath="$PROJECT_DIR$/src/Classes/java/RegistroServico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/java/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executavel/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/java/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/java/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/java/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/java/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/java/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/java/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/java/RegistroServicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/java/Servicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Executavel/java/IfBeauty.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HNSSnNczLETueolQ0HRJD5gbET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/james/Downloads/poo-projeto-final-2022-daniel_james_joyce_tallia-main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Executavel.java" />
+      <recent name="Classes.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="IfBeauty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executavel.java.IfBeauty" />
+      <module name="SistemaSalaoDeBeleza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executavel.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executavel.java.Main" />
+      <module name="SistemaSalaoDeBeleza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executavel.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IfBeauty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76ca7d07-fefe-47ca-86b2-ba03b807a1de" name="Changes" comment="" />
+      <created>1668124053901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668124053901</updated>
+    </task>
+    <task id="LOCAL-00001" summary="conexão">
+      <created>1672255657262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672255657262</updated>
+    </task>
+    <task id="LOCAL-00002" summary="conexão">
+      <created>1672259741954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672259741954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atualizações.">
+      <created>1673794099998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794099998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="conexão" />
+    <MESSAGE value="atualizações." />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizações." />
+  </component>
+</project>
